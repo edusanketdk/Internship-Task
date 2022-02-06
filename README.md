@@ -1,6 +1,6 @@
 # About:
 
-- This repository is Sanket Khadse's submission for AI4Bharat Data Engineer Internship Task
+- This repository is Sanket Khadse's submission for a private internship task
 - It contains two python scripts - *task_1/wiki_extractor.py* and *task_2/pdf_extractor.py*, respective to the two tasks
 - Outputs of the scripts are present in the respective folders
 
